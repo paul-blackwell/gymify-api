@@ -1,0 +1,9 @@
+node_modules/**/*
+npm-debug.*
+.env
+.DS_Store
+package-lock.json
+
+
+# macOS
+.DS_Store
