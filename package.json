@@ -1,0 +1,11 @@
+{
+  "name": "gymify-api",
+  "version": "1.0.0",
+  "description": "API for the gymify app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Paul Blackwell",
+  "license": "ISC"
+}
